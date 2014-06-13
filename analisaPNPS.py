@@ -175,9 +175,39 @@ for RT in RTs:
 
 x.write_graphml(g,"redeRetweets.graphml")
 
+# graph3 de hashtags
+    #tags=[i.lower() for i in text_ if i.startswith("#") and "\xe2\x80\xa6" not in i]
+tags=tags
+tags_=list(set(tags))
+ctags=[tags.count(i) for i in tags_]
+# achar os outros vértices: participantes que emitiram as tags
+users=list(set([i["user"]["screen_name"] for i in foo_]))
+print len(users),"==="
+cu={}
+nodes=[]
+links=[]
+i=0
+for tag in tags_:
+    nodes.append({"nome":tag,"group":1,"count":i,"atv":ctags[i]})
+    cu[tag]=i
+    i+=1
+print len(tags_)
+for user in users:
+    nodes.append({"nome":user,"group":2,"count":i})
+    cu[user]=i
+    i+=1
+    text=string.join([msg["text"] for msg in foo_ if msg["user"]["screen_name"]==user]," ").encode('utf-8').lower()
+    atv=len(text); nodes[-1]["atv"]=atv/150.
+    for tag in tags_:
+        tcount=text.count(tag)
+        if tcount>0:
+            links.append({"source":cu[user],"target":cu[tag],"value":tcount})
+graph3={"nodes":nodes,"links":links,"ntags":len(tags_)}
+# fazer o graph networkx, renderizar graphml e depois os pngs
 
-# faz rede de relacionamento por hashtags
-# fazer rede de retweet:
+
+# tirar medidas das redes e outras de sentimento e usos da língua
+
 notes.close()
 
 
