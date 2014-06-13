@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="utf-8"?><graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="value" attr.type="int" for="edge" id="d1" />
+  <key attr.name="group" attr.type="int" for="node" id="d0" />
+  <graph edgedefault="undirected">
+    <node id="gt">
+      <data key="d0">1</data>
+    </node>
+    <node id="lucasparisi">
+      <data key="d0">2</data>
+    </node>
+    <node id="mega_sim">
+      <data key="d0">2</data>
+    </node>
+    <node id="bolivariano">
+      <data key="d0">1</data>
+    </node>
+    <node id="assine">
+      <data key="d0">1</data>
+    </node>
+    <node id="econtra">
+      <data key="d0">1</data>
+    </node>
+    <node id="manifesto">
+      <data key="d0">1</data>
+    </node>
+    <node id="secgeralpr">
+      <data key="d0">2</data>
+    </node>
+    <node id="democracia">
+      <data key="d0">1</data>
+    </node>
+    <node id="prenass">
+      <data key="d0">2</data>
+    </node>
+    <node id="pedro">
+      <data key="d0">1</data>
+    </node>
+    <node id="apoia">
+      <data key="d0">1</data>
+    </node>
+    <node id="pt">
+      <data key="d0">1</data>
+    </node>
+    <node id="ricardo_garra">
+      <data key="d0">2</data>
+    </node>
+    <node id="ubrals">
+      <data key="d0">2</data>
+    </node>
+    <node id="pontual">
+      <data key="d0">1</data>
+    </node>
+    <node id="favor">
+      <data key="d0">1</data>
+    </node>
+    <node id="sobre">
+      <data key="d0">1</data>
+    </node>
+    <node id="perdendo">
+      <data key="d0">1</data>
+    </node>
+    <node id="amarlua">
+      <data key="d0">2</data>
+    </node>
+    <node id="juristas">
+      <data key="d0">1</data>
+    </node>
+    <node id="Joana_DArch">
+      <data key="d0">2</data>
+    </node>
+    <node id="tb">
+      <data key="d0">1</data>
+    </node>
+    <node id="poder">
+      <data key="d0">1</data>
+    </node>
+    <node id="getuliosantana">
+      <data key="d0">2</data>
+    </node>
+    <node id="sociedade">
+      <data key="d0">1</data>
+    </node>
+    <node id="participatorio">
+      <data key="d0">2</data>
+    </node>
+    <node id="erikakokay">
+      <data key="d0">2</data>
+    </node>
+    <node id="RicardoValeDF">
+      <data key="d0">2</data>
+    </node>
+    <node id="vicentedeaguiar">
+      <data key="d0">2</data>
+    </node>
+    <node id="danielsmendonca">
+      <data key="d0">2</data>
+    </node>
+    <node id="fala">
+      <data key="d0">1</data>
+    </node>
+    <node id="hamiltonribeiro">
+      <data key="d0">2</data>
+    </node>
+    <node id="r_evangelista">
+      <data key="d0">2</data>
+    </node>
+    <node id="jacquesbs">
+      <data key="d0">2</data>
+    </node>
+    <node id="república">
+      <data key="d0">1</data>
+    </node>
+    <node id="acadêmicos">
+      <data key="d0">1</data>
+    </node>
+    <node id="GDCaruaru">
+      <data key="d0">2</data>
+    </node>
+    <node id="atenta">
+      <data key="d0">1</data>
+    </node>
+    <node id="renatogk">
+      <data key="d0">2</data>
+    </node>
+    <node id="fernandomatos">
+      <data key="d0">2</data>
+    </node>
+    <node id="análise">
+      <data key="d0">1</data>
+    </node>
+    <node id="parlamento">
+      <data key="d0">1</data>
+    </node>
+    <node id="participabr">
+      <data key="d0">2</data>
+    </node>
+    <edge source="gt" target="fernandomatos">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="gt" target="participatorio">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="gt" target="secgeralpr">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="gt" target="GDCaruaru">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="gt" target="participabr">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="lucasparisi" target="atenta">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="lucasparisi" target="apoia">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="lucasparisi" target="bolivariano">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="mega_sim" target="favor">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="mega_sim" target="tb">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="bolivariano" target="danielsmendonca">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="bolivariano" target="getuliosantana">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="bolivariano" target="ubrals">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="secgeralpr" target="fala">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="secgeralpr" target="sobre">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="democracia" target="erikakokay">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="democracia" target="RicardoValeDF">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="prenass" target="favor">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="prenass" target="tb">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="apoia" target="danielsmendonca">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="apoia" target="ubrals">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="ricardo_garra" target="favor">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="ricardo_garra" target="tb">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="ubrals" target="perdendo">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="ubrals" target="sobre">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="ubrals" target="análise">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="ubrals" target="atenta">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="favor" target="hamiltonribeiro">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="favor" target="vicentedeaguiar">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="favor" target="amarlua">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="favor" target="r_evangelista">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="sobre" target="jacquesbs">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="sobre" target="participatorio">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="sobre" target="participabr">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="sobre" target="fernandomatos">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="sobre" target="Joana_DArch">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="perdendo" target="Joana_DArch">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="amarlua" target="tb">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Joana_DArch" target="análise">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="tb" target="getuliosantana">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="tb" target="hamiltonribeiro">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="poder" target="jacquesbs">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="participatorio" target="fala">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="vicentedeaguiar" target="acadêmicos">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="danielsmendonca" target="atenta">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="fala" target="fernandomatos">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="fala" target="participabr">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="r_evangelista" target="acadêmicos">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="renatogk" target="análise">
+      <data key="d1">1</data>
+    </edge>
+  </graph>
+</graphml>
