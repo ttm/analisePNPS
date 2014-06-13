@@ -1,11 +1,11 @@
 primeira mensagem: Fri Jun 06 04:45:22 +0000 2014
-ultima mensagem: Fri Jun 13 15:09:27 +0000 2014
-numero de mensagens: 38
-numero de autores: 24
+ultima mensagem: Fri Jun 13 15:40:15 +0000 2014
+numero de mensagens: 41
+numero de autores: 25
 hashtags: #eparticipo, #pnps, #decreto8243, #participabr, #PNPS,, #decreto8243/2014..., #Fascismo, #PNPS, #PNPS?, #PNPS:, #aao0, #Participa\xe7\xe3oSocial, #ErikaKokay, #AdesDilma, #SNPS, #PN\2026, #Participa\xe7\xe3oSocial:, #BrasilContraDecreto8243, #Participa\xe7\xe3oPoplar, #decreto8243/2014, #p\2026, #hist\xf3ria, #DECRETO8243, #RainhaDaScata, #CCJ, #MarcoCivil
 
 ===Medidas Avancadas===
-numero de caracteres: 4499
-numero de tokens: 591
-numero de hashtags: 63
-numero de enderecamentos: 31
+numero de caracteres: 4901
+numero de tokens: 650
+numero de hashtags: 66
+numero de enderecamentos: 36
