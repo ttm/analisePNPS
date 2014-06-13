@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?><graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="weight" attr.type="double" for="edge" id="d2" />
+  <key attr.name="weight" attr.type="int" for="node" id="d1" />
+  <key attr.name="weight" attr.type="double" for="node" id="d0" />
+  <graph edgedefault="undirected">
+    <node id="getuliosantana">
+      <data key="d0">1.0</data>
+    </node>
+    <node id="lucasparisi">
+      <data key="d0">1.0</data>
+    </node>
+    <node id="mega_sim">
+      <data key="d1">0</data>
+    </node>
+    <node id="ubrals">
+      <data key="d1">0</data>
+    </node>
+    <node id="ricardo_garra">
+      <data key="d0">1.0</data>
+    </node>
+    <node id="participatorio">
+      <data key="d1">0</data>
+    </node>
+    <node id="MirandaSa_">
+      <data key="d1">0</data>
+    </node>
+    <node id="hamiltonribeiro">
+      <data key="d0">1.0</data>
+    </node>
+    <node id="amarlua">
+      <data key="d0">2.0</data>
+    </node>
+    <node id="secgeralpr">
+      <data key="d0">1.0</data>
+    </node>
+    <node id="participabr">
+      <data key="d0">1.0</data>
+    </node>
+    <node id="vicentedeaguiar">
+      <data key="d1">0</data>
+    </node>
+    <node id="danielsmendonca">
+      <data key="d0">2.0</data>
+    </node>
+    <node id="prenass">
+      <data key="d1">0</data>
+    </node>
+    <node id="fernandomatos">
+      <data key="d0">1.0</data>
+    </node>
+    <node id="Joana_DArch">
+      <data key="d0">1.0</data>
+    </node>
+    <node id="r_evangelista">
+      <data key="d0">1.0</data>
+    </node>
+    <edge source="getuliosantana" target="ubrals">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="lucasparisi" target="ubrals">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="mega_sim" target="amarlua">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="mega_sim" target="hamiltonribeiro">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="ubrals" target="danielsmendonca">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="ubrals" target="Joana_DArch">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="ricardo_garra" target="prenass">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="participatorio" target="fernandomatos">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="participatorio" target="secgeralpr">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="participatorio" target="participabr">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="MirandaSa_" target="danielsmendonca">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="amarlua" target="prenass">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="vicentedeaguiar" target="r_evangelista">
+      <data key="d2">1.0</data>
+    </edge>
+  </graph>
+</graphml>

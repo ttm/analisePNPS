@@ -59,7 +59,7 @@ else:
         try:
             C.insert(ss)            
         except:
-            client=pymongo.MongoClient(mdc.u2)
+            client=pymongo.MongoClient(mdc.u1)
             db = client['sna']
             C = db[HTAG_] #collection
             C.insert(ss)
