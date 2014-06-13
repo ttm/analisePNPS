@@ -112,7 +112,7 @@ class MyStreamer(TwythonStreamer):
             try:
                 C.insert(data)            
             except:
-                client=pymongo.MongoClient(mdc.u2)
+                client=pymongo.MongoClient(mdc.u1)
                 db = client['sna']
                 C = db[HTAG_] #collection
                 C.insert(data)            
